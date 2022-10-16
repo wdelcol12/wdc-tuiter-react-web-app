@@ -21,4 +21,5 @@ function homeComponent() {
     `)
 
 }
+/* eslint-env jquery */
 $(homeComponent);

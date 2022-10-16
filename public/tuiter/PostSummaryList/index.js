@@ -1,5 +1,5 @@
-import exploreItems from "./PostList.js";
-import PostSummaryItem from "./PostSummaryItem.js";
+import exploreItems from "../PostSummaryList/PostList.js";
+import PostSummaryItem from "../PostSummaryList/PostSummaryItem.js";
 
 function PostSummaryList() {
     return(`

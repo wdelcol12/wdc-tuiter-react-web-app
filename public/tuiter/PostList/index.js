@@ -1,6 +1,6 @@
-import home_Post from "./posts.js";
+import home_Post from "../PostList/posts.js";
 
-import PostItems from "./PostItems.js"
+import PostItems from "../PostList/PostItems.js"
 
 const PostList = (pos) => {
     return (`
