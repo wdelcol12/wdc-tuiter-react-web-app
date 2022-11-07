@@ -1,0 +1,17 @@
+[
+  {
+    "userName": "NASA",
+    "handle": "NASA",
+    "avatarIcon": "https://logos-world.net/wp-content/uploads/2020/05/NASA-Logo-1959-present.png"
+  },
+  {
+    "userName": "Tesla",
+    "handle": "tesla",
+    "avatarIcon": "https://wallpapercave.com/wp/wp3544544.png"
+  },
+  {
+    "userName": "Virgin Galactic",
+    "handle": "virginGalactic",
+    "avatarIcon": "https://images.ctfassets.net/rxqefefl3t5b/AzLiCYmmcqxqHh05mJ3xE/ac2529b64aaed294e63d2837ea493a4e/Virgin-Galactic_Logo.png"
+  }
+]

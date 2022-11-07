@@ -1,0 +1,87 @@
+
+
+body {
+    background-color: black;
+}
+
+
+.list-group .list-group-item{
+    background-color:black;
+    color:white;
+
+}
+.list-group-item{
+
+    font-weight:bold;
+}
+
+.newBorder {
+    border-left-style: solid;
+    border-left-color:gray;
+    border-right-style: solid;
+    border-right-color:gray;
+    border-bottom-style: solid;
+    border-bottom-color:gray;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+
+}
+.rounded-corners-fix {
+    border-radius: 50px;
+    margin-bottom:10px;
+}
+.backgroundGrey {
+    background-color:gray;
+    border-color:gray;
+
+}
+
+.newFollow {
+    color: black;
+    background-color:white;
+
+    margin-left:5px;
+    margin-top:5px;
+    font-weight:bold;
+    text-align:center;
+    border:0px;
+
+}
+
+.newNavButton {
+    color:white;
+    text-decoration: none;
+    border-bottom: 5px solid;
+    border-bottom-color: #1c93e4;
+    border-radius:2px;
+    margin-right: 60px;
+    font-size:20px;
+}
+
+.adjustPad {
+
+    margin-left: 20px;
+}
+
+.colorGray {
+    color:gray;
+
+}
+.NewMargin {
+
+    margin-left:20px;
+}
+
+.overLayImage {
+    position:relative;
+    bottom:0;
+    color:white;
+
+}
+
+.rounded-img{
+    border-radius: 30px;
+
+
+}
