@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 123,
+    "userName": "NASA",
+    "handle": "NASA",
+    "avatarIcon": "https://th.bing.com/th/id/R.d78d04e4b1c3e908f6665df258110e1c?rik=GBiA%2byENVphv%2bQ&pid=ImgRaw&r=0"
+  },
+  {
+    "_id": 234,
+    "userName": "Tesla",
+    "handle": "tesla",
+    "avatarIcon": "https://th.bing.com/th/id/R.cde3fe87bef3bcfcd0adf458cd99f58d?rik=t6Eb8VprZd057Q&pid=ImgRaw&r=0"
+  },
+  {
+    "_id": 345,
+    "userName": "SpaceX",
+    "handle": "SpaceX",
+    "avatarIcon": "https://th.bing.com/th/id/R.7dab9996f15513443ab7ec4d1c04cab9?rik=TerTflRcaZ9KLA&pid=ImgRaw&r=0"
+  }
+]
